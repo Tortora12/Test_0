@@ -1,0 +1,5 @@
+curl-cffi
+beautifulsoup4
+ua-generator
+pyTelegramBotAPI
+python-dotenv
